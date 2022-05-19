@@ -19,6 +19,9 @@
 
 * https://docs.google.com/presentation/d/1plOLfL3tlYSL4ZJrneetYXYgm6RBre1sjBLaOGCFy6c/edit#slide=id.p
 
+* https://docs.google.com/spreadsheets/d/12PFkUlQH09jQvcnORjcbh9-8d-NnIuk4mAQwdGiXeSM/edit#gid=656314485
+
+
 ## Triggers
 
 * La transparencia de los datos abiertos y la analítica se han convertido en armas clave en la lucha contra la corrupción.
