@@ -1,8 +1,6 @@
 
 # Tesina Universidad Austral, Maestría de Ciencia de Datos
 
-* buenosaires_ocds_redflags
-
 * "Detección de Alertas tempranas a través de modelos de aprendizaje de máquinas en el sistema Buenos Aires Compras (BAC) publicada bajo el Estándar de Datos Para las Contrataciones Abiertas (Open Contracting Data Standard - Open Contracting Partnership)"
 
 ## Datasets
