@@ -16,3 +16,8 @@
 * https://www.opengovpartnership.org/wp-content/uploads/2019/05/Global-Report_Open-Contract.pdf
 
 * https://www.weforum.org/agenda/2020/08/why-data-is-latin-americas-best-weapon-in-the-fight-against-covid-19-corruption/
+
+## Triggers
+
+* ¿Es posible detectar de forma temprana banderas rojas en procesos de contratación y compras utlizando los datos del sistema Buenos Aires Compras (BAC)?
+* 
