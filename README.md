@@ -1,5 +1,5 @@
 
-# Tesina Universidad Austral
+# Tesina Universidad Austral, Maestría de Ciencia de Datos
 
 * buenosaires_ocds_redflags
 
