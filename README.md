@@ -4,3 +4,15 @@
 * buenosaires_ocds_redflags
 
 * "Alertas tempranas detectadas en el sistema Buenos Aires Compras (BAC) publicada bajo el Estándar de Datos Para las Contrataciones Abiertas (Open Contracting Data Standard - Open Contracting Partnership)"
+
+## Datasets
+* dataset: https://data.buenosaires.gob.ar/dataset/buenos-aires-compras
+
+## Recursos
+* https://www.open-contracting.org/es/2019/06/27/examinando-con-datos-las-banderas-rojas-de-compras-en-america-latina/
+
+* https://www.open-contracting.org/es/2019/05/07/buenos-aires-que-podemos-aprender-sobre-8-anos-de-datos-de-contratos/
+
+* https://www.opengovpartnership.org/wp-content/uploads/2019/05/Global-Report_Open-Contract.pdf
+
+* https://www.weforum.org/agenda/2020/08/why-data-is-latin-americas-best-weapon-in-the-fight-against-covid-19-corruption/
