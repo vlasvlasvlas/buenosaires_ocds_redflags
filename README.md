@@ -24,7 +24,7 @@
 
 ## Triggers
 
-* La transparencia de los datos abiertos y la analítica se han convertido en armas clave en la lucha contra la corrupción.
+* La transparencia de los datos abiertos y la analítica se han convertido en armas clave en la prevención de la corrupción.
 
 * ¿Es posible detectar de forma temprana banderas rojas en procesos de contratación y compras utlizando los datos del sistema Buenos Aires Compras (BAC)?
 
