@@ -4,7 +4,9 @@
 * "Detección de Alertas tempranas a través de modelos de aprendizaje de máquinas en el sistema Buenos Aires Compras (BAC) publicada bajo el Estándar de Datos Para las Contrataciones Abiertas (Open Contracting Data Standard - Open Contracting Partnership)"
 
 ## Datasets
-* dataset: https://data.buenosaires.gob.ar/dataset/buenos-aires-compras
+
+Buenos Aires Compras, DG Compras y Contrataciones. Subsecretaría de Gestión Operativa. Ministerio de Hacienda y Finanzas:
+https://data.buenosaires.gob.ar/dataset/buenos-aires-compras
 
 ## Recursos
 * https://www.open-contracting.org/es/2019/06/27/examinando-con-datos-las-banderas-rojas-de-compras-en-america-latina/
