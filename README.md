@@ -24,6 +24,16 @@ https://data.buenosaires.gob.ar/dataset/buenos-aires-compras
 * https://clad.org/wp-content/uploads/2021/03/Libro-7-Inteligencia-artificial-y-%C3%A9tica-en-la-gesti%C3%B3n-p%C3%BAblica.pdf
 
 
+## Bibliografía tentativa
+
+* https://pdfs.semanticscholar.org/66f7/89dc355dbc1728b33a90f3ea0d8d28d0fae1.pdf
+
+* https://documents1.worldbank.org/curated/en/887311603104832916/pdf/Finding-Fraud-GovTech-and-Fraud-Detection-in-Public-Administration.pdf
+
+* https://www.researchgate.net/profile/Ruben-Interian/publication/341703812_A_decision_support_system_for_fraud_detection_in_public_procurement/links/5ed1b1e445851529451bc8b1/A-decision-support-system-for-fraud-detection-in-public-procurement.pdf?origin=publication_detail
+
+* https://docs.google.com/spreadsheets/d/12PFkUlQH09jQvcnORjcbh9-8d-NnIuk4mAQwdGiXeSM/edit#gid=245962708
+
 ## Triggers
 
 * La transparencia de los datos abiertos y la analítica se han convertido en armas clave en la prevención de la corrupción.
