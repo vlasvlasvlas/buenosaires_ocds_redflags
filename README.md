@@ -17,7 +17,9 @@
 
 * https://www.weforum.org/agenda/2020/08/why-data-is-latin-americas-best-weapon-in-the-fight-against-covid-19-corruption/
 
+* https://docs.google.com/presentation/d/1plOLfL3tlYSL4ZJrneetYXYgm6RBre1sjBLaOGCFy6c/edit#slide=id.p
+
 ## Triggers
 
 * ¿Es posible detectar de forma temprana banderas rojas en procesos de contratación y compras utlizando los datos del sistema Buenos Aires Compras (BAC)?
-* 
+
