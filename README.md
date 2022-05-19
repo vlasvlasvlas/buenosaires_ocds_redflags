@@ -21,6 +21,8 @@ https://data.buenosaires.gob.ar/dataset/buenos-aires-compras
 
 * https://docs.google.com/spreadsheets/d/12PFkUlQH09jQvcnORjcbh9-8d-NnIuk4mAQwdGiXeSM/edit#gid=656314485
 
+* https://clad.org/wp-content/uploads/2021/03/Libro-7-Inteligencia-artificial-y-%C3%A9tica-en-la-gesti%C3%B3n-p%C3%BAblica.pdf
+
 
 ## Triggers
 
