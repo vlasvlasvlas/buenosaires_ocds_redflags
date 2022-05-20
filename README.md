@@ -34,6 +34,11 @@ https://data.buenosaires.gob.ar/dataset/buenos-aires-compras
 
 * https://docs.google.com/spreadsheets/d/12PFkUlQH09jQvcnORjcbh9-8d-NnIuk4mAQwdGiXeSM/edit#gid=245962708
 
+
+## Marco metodológico
+
+* https://hdsr.mitpress.mit.edu/pub/hnptx6lq/release/9
+
 ## Triggers
 
 * La transparencia de los datos abiertos y la analítica se han convertido en armas clave en la prevención de la corrupción.
