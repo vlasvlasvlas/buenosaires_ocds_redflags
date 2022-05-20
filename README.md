@@ -24,6 +24,11 @@ https://data.buenosaires.gob.ar/dataset/buenos-aires-compras
 * https://clad.org/wp-content/uploads/2021/03/Libro-7-Inteligencia-artificial-y-%C3%A9tica-en-la-gesti%C3%B3n-p%C3%BAblica.pdf
 
 
+## Fixes
+
+* https://github.com/odia/buenosairescompras/tree/puppet
+
+
 ## Bibliografía tentativa
 
 * https://pdfs.semanticscholar.org/66f7/89dc355dbc1728b33a90f3ea0d8d28d0fae1.pdf
