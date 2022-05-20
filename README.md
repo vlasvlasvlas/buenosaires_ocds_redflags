@@ -55,6 +55,7 @@ https://data.buenosaires.gob.ar/dataset/buenos-aires-compras
 
 ## Preguntas
 
+* Qué? Cómo? Por qué? Para qué?
 * Relevancia, Importancia, Utilidad.
 
 ![imagen](https://user-images.githubusercontent.com/4071796/169591942-52ec485f-2fd8-40a9-9aae-1605bccc2f71.png)
