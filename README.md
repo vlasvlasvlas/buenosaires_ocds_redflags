@@ -47,3 +47,8 @@ https://data.buenosaires.gob.ar/dataset/buenos-aires-compras
 
 * ¿Es posible detectar de forma temprana banderas rojas en procesos de contratación y compras utlizando los datos del sistema Buenos Aires Compras (BAC)?
 
+## Preguntas
+
+![imagen](https://user-images.githubusercontent.com/4071796/169591942-52ec485f-2fd8-40a9-9aae-1605bccc2f71.png)
+
+
