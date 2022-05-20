@@ -1,7 +1,7 @@
 
 # Tesina Universidad Austral, Maestría de Ciencia de Datos
 
-* "Detección de Alertas tempranas en el sistema Buenos Aires Compras (BAC) con el uso de machine learning y el Estándar de Datos Para las Contrataciones Abiertas"
+* "Detección de Alertas tempranas en el sistema Buenos Aires Compras (BAC) con el uso de machine learning y el estándar de datos para las contrataciones abiertas"
 
 ## Datasets
 
