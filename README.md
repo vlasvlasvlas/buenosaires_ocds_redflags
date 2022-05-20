@@ -34,6 +34,8 @@ https://data.buenosaires.gob.ar/dataset/buenos-aires-compras
 
 * https://docs.google.com/spreadsheets/d/12PFkUlQH09jQvcnORjcbh9-8d-NnIuk4mAQwdGiXeSM/edit#gid=245962708
 
+Keller, S. A., Shipp, S. S., Schroeder, A. D., & Korkmaz, G. (2020). Doing Data Science: A Framework and Case Study. Harvard Data Science Review, 2(1). https://doi.org/10.1162/99608f92.2d83f7f5
+
 
 ## Marco metodológico
 
