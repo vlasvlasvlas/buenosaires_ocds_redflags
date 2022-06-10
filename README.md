@@ -55,3 +55,7 @@ https://data.buenosaires.gob.ar/dataset/buenos-aires-compras
 * ¿Qué se conoce actualmente sobre el tema investigado?
 * ¿Qué utilidad se espera de la solución al problema?
 * ¿Qué aplicación práctica tendrá la investigación?
+
+## Documento Word de Modelo para presentación del plan de trabajo final
+
+* https://docs.google.com/document/d/1IdRrZxlhzbYbkMOdwwt7TlIF3Ab2_YGqY90NI5w5d30/edit?usp=sharing
