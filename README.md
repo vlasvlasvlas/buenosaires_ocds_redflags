@@ -50,8 +50,9 @@ https://data.buenosaires.gob.ar/dataset/buenos-aires-compras
 
 ## Preguntas sobre la temática
 
-* Qué? Cómo? Por qué? Para qué? 
-* Qué ventajas?
-* Relevancia, Importancia, Utilidad.
-
-![imagen](https://user-images.githubusercontent.com/4071796/169591942-52ec485f-2fd8-40a9-9aae-1605bccc2f71.png)
+* ¿Cuál es el problema que se quiere resolver?
+* ¿Qué tan significativo es dicho problema?
+* ¿Dónde, en qué magnitud, y con qué consecuencias se presenta?
+* ¿Qué se conoce actualmente sobre el tema investigado?
+* ¿Qué utilidad se espera de la solución al problema?
+* ¿Qué aplicación práctica tendrá la investigación?
