@@ -23,9 +23,6 @@ https://data.buenosaires.gob.ar/dataset/buenos-aires-compras
 
 * https://clad.org/wp-content/uploads/2021/03/Libro-7-Inteligencia-artificial-y-%C3%A9tica-en-la-gesti%C3%B3n-p%C3%BAblica.pdf
 
-
-## Fixes
-
 * https://github.com/odia/buenosairescompras/tree/puppet
 
 
@@ -47,13 +44,13 @@ https://data.buenosaires.gob.ar/dataset/buenos-aires-compras
 
 * https://inferentialthinking.com/chapters/intro#The-Foundations-of-Data-Science
 
-## Triggers
+## Disparadores iniciales
 
 * La transparencia de los datos abiertos y la analítica se han convertido en armas clave en la prevención de la corrupción.
 
 * ¿Es posible detectar de forma temprana banderas rojas en procesos de contratación y compras utlizando los datos del sistema Buenos Aires Compras (BAC)?
 
-## Preguntas
+## Preguntas sobre la temática
 
 * Qué? Cómo? Por qué? Para qué? 
 * Qué ventajas?
