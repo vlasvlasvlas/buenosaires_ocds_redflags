@@ -25,6 +25,16 @@ https://data.buenosaires.gob.ar/dataset/buenos-aires-compras
 
 * https://github.com/odia/buenosairescompras/tree/puppet
 
+* https://quintagroup.com/services/e-procurement/op-images/ocds-open-contracting-data-standard.jpg
+
+* https://www.buenosairescompras.gob.ar//PLIEGO/VistaPreviaPliegoCiudadano.aspx?qs=BQoBkoMoEhz5ONY31RFJiWW8aohoiUyizvz3vAxfcy%7C9iRe9wnu%7Ccs%7Cc2Fgz2YID
+
+* https://data.buenosaires.gob.ar/dataset/buenos-aires-compras
+
+* https://oecd-opsi.org/innovations/dozorro/
+
+* https://www.open-contracting.org/es/
+
 
 ## Bibliografía tentativa
 
