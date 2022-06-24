@@ -44,19 +44,34 @@ https://data.buenosaires.gob.ar/dataset/buenos-aires-compras
 
 * Manual de metodología. Construcción del marco teórico, formulación de los objetivos y elección de la metodología http://biblioteca.clacso.edu.ar/gsdl/collect/clacso/index/assoc/D1532.dir/sautu2.pdf
 
-## Disparadores iniciales
+## Disparadores
 
 * La transparencia de los datos abiertos y la analítica se han convertido en armas clave en la prevención de la corrupción.
 * ¿Es posible detectar de forma temprana banderas rojas en procesos de contratación y compras utlizando los datos del sistema Buenos Aires Compras (BAC)?
 
 ## Preguntas sobre la temática
 
-* ¿Cuál es el problema que se quiere resolver?
-* ¿Qué tan significativo es dicho problema?
+### Planteamiento del problema de investigación (¿qué?)
+
+Delimitar un tema implica definir un campo de estudio.
+
+Plantear un problema de investigación significa definir un objeto de estudio acotado, cuyo análisis permita realizar una contribución relevante para el avance de la disciplina.
+
+### Justificación de la investigación  (¿porqué? ¿para qué?)
+
+Es necesario corroborar si hemos logrado forumlar con un problema de investigación justificado.
+
+### Estrategia metodológica (¿cómo?)
+
+
+### Preguntas disparadoras
+* ¿Cuál es el problema que se quiere resolver? 
+* ¿Qué tan significativo es dicho problema? ¿es relevante?
 * ¿Dónde, en qué magnitud, y con qué consecuencias se presenta?
-* ¿Qué se conoce actualmente sobre el tema investigado?
-* ¿Qué utilidad se espera de la solución al problema?
+* ¿Qué se conoce actualmente sobre el tema investigado? ¿Cómo ha sido resuelto ese problema hasta el presente?
+* ¿Qué utilidad o beneficios se espera de la solución al problema?
 * ¿Qué aplicación práctica tendrá la investigación?
+
 
 ## Documento Word de Modelo para presentación del plan de trabajo final
 
