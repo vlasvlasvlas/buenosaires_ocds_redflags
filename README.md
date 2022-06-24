@@ -42,6 +42,8 @@ https://data.buenosaires.gob.ar/dataset/buenos-aires-compras
 
 * https://inferentialthinking.com/chapters/intro#The-Foundations-of-Data-Science
 
+* Manual de metodología. Construcción del marco teórico, formulación de los objetivos y elección de la metodología http://biblioteca.clacso.edu.ar/gsdl/collect/clacso/index/assoc/D1532.dir/sautu2.pdf
+
 ## Disparadores iniciales
 
 * La transparencia de los datos abiertos y la analítica se han convertido en armas clave en la prevención de la corrupción.
