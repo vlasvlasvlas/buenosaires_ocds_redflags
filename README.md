@@ -66,11 +66,13 @@ Es necesario corroborar si hemos logrado forumlar con un problema de investigaci
 
 ### Preguntas disparadoras
 * ¿Cuál es el problema que se quiere resolver? 
+* ¿Cuál es el objetivo?
 * ¿Qué tan significativo es dicho problema? ¿es relevante?
 * ¿Dónde, en qué magnitud, y con qué consecuencias se presenta?
 * ¿Qué se conoce actualmente sobre el tema investigado? ¿Cómo ha sido resuelto ese problema hasta el presente?
 * ¿Qué utilidad o beneficios se espera de la solución al problema?
 * ¿Qué aplicación práctica tendrá la investigación?
+
 
 
 ## Documento Word de Modelo para presentación del plan de trabajo final
