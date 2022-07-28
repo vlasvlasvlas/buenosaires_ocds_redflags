@@ -48,6 +48,7 @@ https://data.buenosaires.gob.ar/dataset/buenos-aires-compras
 
 * https://d1.awsstatic.com/executive-insights/es_ES/ebook-becoming-data-driven.pdf
 
+* https://www.imf.org/-/media/Files/Publications/WP/2022/English/wpiea2022094-print-pdf.ashx
 
 ## Marco metodológico
 
