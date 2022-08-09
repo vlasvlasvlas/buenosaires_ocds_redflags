@@ -109,6 +109,4 @@ Podría permitir un ahorro al estado y tener compras más controladas, transpare
 
 Aplica directamente sobre el histórico de compras de la Ciudad de Buenos Aires, y podría trasladarse a cualquier otro sistema que trabaje con el estandar OCDS.
 
-## Documento Word de Modelo para presentación del plan de trabajo final
 
-* https://docs.google.com/document/d/1IdRrZxlhzbYbkMOdwwt7TlIF3Ab2_YGqY90NI5w5d30/edit?usp=sharing
