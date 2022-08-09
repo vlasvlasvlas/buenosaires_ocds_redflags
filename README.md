@@ -75,7 +75,7 @@ Plantear un problema de investigación significa definir un objeto de estudio ac
 
 ### Justificación de la investigación  (¿porqué? ¿para qué?)
 
-Es necesario corroborar si hemos logrado forumlar con un problema de investigación justificado.
+Es necesario corroborar si hemos logrado formular con un problema de investigación justificado.
 
 ### Estrategia metodológica (¿cómo?)
 
