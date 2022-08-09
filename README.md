@@ -82,14 +82,32 @@ Es necesario corroborar si hemos logrado forumlar con un problema de investigaci
 
 ### Preguntas disparadoras
 * ¿Cuál es el problema que se quiere resolver? 
+
+Se quiere visibilizar o iluminar la problematica involucrada en actos de corrupción o ventajas en licitaciones o contrataciones públicas. 
+
 * ¿Cuál es el objetivo?
+
+Visibilizar o ilumnar acciones puntuales (alertas tempranas) que puedan servir como disparadores a controlar en procesos de contrataciones públicas.
+
+Revisar la opción de prever procesos fraudulentos o que conlleven actos de corrupción a través de modelos predictivos.
+
 * ¿Qué tan significativo es dicho problema? ¿es relevante?
-* ¿Dónde, en qué magnitud, y con qué consecuencias se presenta?
+
+Podría permitir detectar a tiempo posibles compras fraudulentas, arregladas o corruptas.
+
+Permite visibilizar y exponer los procesos de compras.
+
 * ¿Qué se conoce actualmente sobre el tema investigado? ¿Cómo ha sido resuelto ese problema hasta el presente?
+
+Estuve trabajando con este tema en algunos datasets de Paraguay, se resolvieron a través de detecciones de alertas tempranas por reglas y por modelo de clasificación / clustering. Quería probar si estos avances en Paraguay son adaptables en Argentina o revisar cuales serían las reglas o modelos que podrían servir para Argentina, especificamente para el Gobierno de la Ciudad que ya tiene compras con el estandar OCDS.
+
 * ¿Qué utilidad o beneficios se espera de la solución al problema?
+
+Podría permitir un ahorro al estado y tener compras más controladas, transparentes, productos o servicios entregados a tiempo y forma, y en el estado que se espera.
+
 * ¿Qué aplicación práctica tendrá la investigación?
 
-
+Aplica directamente sobre el histórico de compras de la Ciudad de Buenos Aires, y podría trasladarse a cualquier otro sistema que trabaje con el estandar OCDS.
 
 ## Documento Word de Modelo para presentación del plan de trabajo final
 
