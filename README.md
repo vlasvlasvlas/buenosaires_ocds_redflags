@@ -54,6 +54,8 @@ https://data.buenosaires.gob.ar/dataset/buenos-aires-compras
 
 ## Marco metodológico
 
+* CRISP-DM https://es.wikipedia.org/wiki/Cross_Industry_Standard_Process_for_Data_Mining
+
 * Doing Data Science: A Framework and Case Study: Keller, S. A., Shipp, S. S., Schroeder, A. D., & Korkmaz, G. (2020). Harvard Data Science Review, 2(1). https://doi.org/10.1162/99608f92.2d83f7f5
 
 * https://inferentialthinking.com/chapters/intro#The-Foundations-of-Data-Science
